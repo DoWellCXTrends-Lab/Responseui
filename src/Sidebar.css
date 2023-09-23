@@ -1,0 +1,79 @@
+/* Sidebar.css */
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.page.expanded {
+  background-color: #555;
+}
+
+.submenus {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.submenu {
+  cursor: pointer;
+  margin-left: 15px;
+  color: #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.submenu:hover {
+  background-color: #444;
+}
+
+.data-container {
+  flex-grow: 1;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.data-container h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #0078d4;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #005a9e;
+}
+/* Add active style to the active submenu */
+.submenu.active {
+  background-color: #0074cc; /* Change this to your desired active background color */
+  color: #fff; /* Change this to your desired active text color */
+}

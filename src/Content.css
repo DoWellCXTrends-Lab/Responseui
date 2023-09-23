@@ -1,0 +1,62 @@
+/* Content.css */
+.container {
+  display: flex;
+}
+
+.data-container {
+  flex-grow: 1;
+  padding: 20px;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.data-container h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: calc(33.33% - 20px); /* Adjust the width based on your layout */
+}
+
+.card a {
+  text-decoration: none;
+  color: #1a0dab; /* Google blue */
+  transition: color 0.3s;
+}
+
+.card a:hover {
+  color: #0d0d0d; /* Dark gray on hover */
+}
+
+.card h4 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.card p {
+  margin-top: 8px;
+  color: #70757a; /* Gray text color */
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 12px;
+}
+
+.card img.favicon {
+  max-width: 16px;
+  max-height: 16px;
+  margin-right: 4px;
+  vertical-align: middle;
+}

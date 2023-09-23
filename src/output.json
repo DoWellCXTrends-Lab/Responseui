@@ -1,0 +1,702 @@
+[
+  {
+    "﻿result_type": "metadata",
+    "id": "65001494af5af1e69f56908e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0e051b8aeff424c7/65001494af5af1e69f56908e.json",
+    "created_at": "2023-09-12 07:34:44 UTC",
+    "google_url": "https://www.google.co.in/search?q=instant+food&oq=instant+food&uule=w+CAIQICIRTWFoYXJhc2h0cmEsSW5kaWE&hl=en&gl=in&start=0&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0e051b8aeff424c7/65001494af5af1e69f56908e.html",
+    "total_time_taken": "8.37"
+  },
+  {
+    "﻿result_type": "search_parameters",
+    "engine": "google",
+    "q": "instant food",
+    "location_requested": "Maharashtra, India",
+    "location_used": "Maharashtra,India",
+    "google_domain": "google.co.in",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "in"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "1",
+    "title": "Instant Food",
+    "link": "https://www.amazon.in/Instant-Food/s?k=Instant+Food",
+    "displayed_link": "https://www.amazon.in › Instant-Food › k=Instant+Food",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5bb7685a90440db44ea4ed15984aaaa7f1.jpeg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5bbbeeb825ceedfe90c3421f8bace16843.png",
+    "snippet": "Aashirvaad Instant Meals Mini Idli Sambar Cup 75g, Ready to Eat Indian Breakfast.",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "2",
+    "title": "Instant Meals",
+    "link": "https://mealofthemoment.com/collections/instant-meals",
+    "displayed_link": "https://mealofthemoment.com › collections › instant-m...",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b02f9151c9e22d91b4730bec622c4d61c.jpeg",
+    "snippet": "MOM - Meal of the Moment, Weekly Combo Pack of 2 of Veg Biryani with Shahi Gravy, and Poha with Bhujia, Ghee Rava Upma with Bhujia , Idli Sambar, ...",
+    "source": "MOM Meal of the Moment"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "3",
+    "title": "Buy Ready to Eat Food Products Online at Best Prices",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/heat-eat-ready-meals/",
+    "displayed_link": "https://www.bigbasket.com › ... › Ready To Cook & Eat",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b7773adfe181434301095558d108b72fc.png",
+    "snippet": "Buy Ready to Eat food in India at our online branded foods store. ... Ceres Foods Mustard Fish Instant Liquid Masala - Fish Cooking Paste 2X200 g Multipack.",
+    "source": "BigBasket"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "4",
+    "title": "Aashirvaad Instant Meals",
+    "link": "https://aashirvaad.com/Instant-meal.aspx",
+    "displayed_link": "https://aashirvaad.com › Instant-meal",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdizWxl1a0fK7KLqMjE0yAV5g0tYBuBdYULdECeEfcMVkr2d_DluFI&usqp=CAE&s",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b2b79131a4cba91f0fd6cb0355991e651.png",
+    "snippet": "Aashirvaad best healthy instant meals ready in minutes with boiling water and includes Khatta Meetha Poha, Veggie Upma, Suji Halwa with Jaggery, ...",
+    "source": "Aashirvaad"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "5",
+    "title": "Buy Ready to Eat Meals Online in India",
+    "link": "https://www.flipkart.com/ready-to-eat/pr?sid=eat,xn7,dsl",
+    "displayed_link": "https://www.flipkart.com › ready-to-eat",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPtGsKduoIyQiyfTW3iuPTdrHLnliXulpFt3fdxUV95ZgqD59qnym&usqp=CAE&s",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b8d61b7ebfd56de8f870ac059b19540bb.png",
+    "snippet": "Ready To Eat Meals: Buy Ready to Eat Snacks and Meals at India's best online shopping store. ✓Genuine Products ✓Best Offers.",
+    "source": "Flipkart"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "6",
+    "title": "List of instant foods",
+    "link": "https://en.wikipedia.org/wiki/List_of_instant_foods",
+    "displayed_link": "https://en.wikipedia.org › wiki › List_of_instant_foods",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQdsPqi_Wj8krD30izb7EFGvxJUIsI42-euulHDJd-C3gpjeYC874&usqp=CAE&s",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5bf00830439d9a3605714738bac98d6d3b.png",
+    "snippet": "This is a list of instant foods. Instant foods are convenience foods which require minimal preparation, typically just adding water or milk.",
+    "source": "Wikipedia"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "7",
+    "title": "Instant Food Products",
+    "link": "https://www.vishalam.com/collections/instant-food-products",
+    "displayed_link": "https://www.vishalam.com › collections › instant-food...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_o6M0QUIsDuhKH-ThF1mIY0_-NvNaOWq-vc-kdwAxXocyhzh2Y_0Vz1dSLcOz2h8o34&s",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b83fc4cd47deb72b47d796cd15856e2bb.jpeg",
+    "snippet": "Instant Food Products ; CereMil - Instant Health Drink ReadyMix - Balali's Vishalam ; Instant Adai Dosa ReadyMix - Balali's Vishalam.",
+    "source": "Balali's Vishalam"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "8",
+    "title": "Ready to Eat Food",
+    "link": "https://dir.indiamart.com/indianexporters/processed-food-items.html",
+    "displayed_link": "https://dir.indiamart.com › processed-food-items",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b3ab321e18066c4f0dcde5cfd26a55b5e.png",
+    "source": "IndiaMART"
+  },
+  {
+    "﻿result_type": "organic",
+    "position": "9",
+    "title": "Buy Instant Food Products Online in India",
+    "link": "https://smytten.com/shop/food-and-beverages/instant-food/57",
+    "displayed_link": "https://smytten.com › shop › food-and-beverages › ins...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TP_djZUDZ4eUhPulK5XIDIzbiVExzbOeQ_f2zjwY3iyV_KwEHvWs&usqp=CAE&s",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "snippet": "Noodles, flavored oats, and morning cereals are among the simplest instant foods to prepare and package. These instant foods are packed in airtight, dry ...",
+    "source": "Smytten"
+  },
+  {
+    "﻿result_type": "related_questions",
+    "link": "https://en.wikipedia.org/wiki/List_of_instant_foods#:~:text=Instant%20foods%20are%20convenience%20foods,freeze%2Ddried%2C%20or%20condensed.",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4SmJFOUtPVWszWjB4b1JIUmxOekpvY1dNek9HbGhTemxuVWkweFVGb3pOVlkwZDJSUlp6Qm1UbmwxWnpkSVZYUk1SbEF3VFRoMFpIbG5iMHhmWlZodFV6aGFiMlZZRWhkdGVGRkJXbVF0UlVoS05ub3dVRVZRYVRSWFV6aEJaeG9pUVV4RlV6bDFUbFZPWVhoQmNsaEhiRkJ2T1MxM1FTMXdVbVUxY25kcE5tTk1kdyIsImZjdiI6IjMiLCJlaSI6Im14UUFaZC1FSEo2ejBQRVBpNFdTOEFnIiwicWMiOiJDZ3hwYm5OMFlXNTBJR1p2YjJRUUFIMjhkRE1fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBpbnN0YW50IGZvb2Q%2FIiwibGsiOiJHaGgzYUdGMElHbHpJSFJvWlNCcGJuTjBZVzUwSUdadmIyUSIsImJzIjoiYy1PUzQ1SU16MGdzVWNnc1ZpakpTRlhJekNzdVNjd3JVVWpMejAteGwtaFY1bExuVW9MSnAtVVhLYVJXSk9ZVzVLQ3FLN2FYLUJuQXBjQWxIWjZSbVp5QklnWFNsZzQyNmtrV2x4S1hMRVFGV0pOQ1lsR3FRbEZxWWtxbFFrbS1RbXBpaWIzRVVTa0JSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D",
+    "displayed_link": "https://en.wikipedia.org › wiki › List_of_instant_foods",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbAL4PB_9gjLjlEExBCmsAf41ogTkIGr9UXDjm-aptA&s"
+  },
+  {
+    "﻿result_type": "related_questions",
+    "link": "https://kids.kiddle.co/List_of_instant_foods",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4SmJFOUtPVWszWjB4b1JIUmxOekpvY1dNek9HbGhTemxuVWkweFVGb3pOVlkwZDJSUlp6Qm1UbmwxWnpkSVZYUk1SbEF3VFRoMFpIbG5iMHhmWlZodFV6aGFiMlZZRWhkdGVGRkJXbVF0UlVoS05ub3dVRVZRYVRSWFV6aEJaeG9pUVV4RlV6bDFUbFZPWVhoQmNsaEhiRkJ2T1MxM1FTMXdVbVUxY25kcE5tTk1kdyIsImZjdiI6IjMiLCJlaSI6Im14UUFaZC1FSEo2ejBQRVBpNFdTOEFnIiwicWMiOiJDZ3hwYm5OMFlXNTBJR1p2YjJRUUFIMjhkRE1fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGZvciBleGFtcGxlIGluc3RhbnQgZm9vZHM%2FIiwibGsiOiJHaUYzYUdGMElHbHpJR1p2Y2lCbGVHRnRjR3hsSUdsdWMzUmhiblFnWm05dlpITSIsImJzIjoiYy1PUzQ1SU16MGdzVWNnc1ZpakpTRlhJekNzdVNjd3JVVWpMejAteGwtaFY1bExuVW9MSnAtVVhLYVJXSk9ZVzVLQ3FLN2FYLUJuQXBjQWxIWjZSbVp5QklnWFNsZzQyNmtrV2x4S1hMRVFGV0pOQ1lsR3FRbEZxWWtxbFFrbS1RbXBpaWIzRVVTa0JSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D",
+    "displayed_link": "https://kids.kiddle.co › List_of_instant_foods"
+  },
+  {
+    "﻿result_type": "related_questions",
+    "link": "https://cashkaro.com/blog/ready-to-eat-meals-thatll-taste-like-from-your-kitchen/117741",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4SmJFOUtPVWszWjB4b1JIUmxOekpvY1dNek9HbGhTemxuVWkweFVGb3pOVlkwZDJSUlp6Qm1UbmwxWnpkSVZYUk1SbEF3VFRoMFpIbG5iMHhmWlZodFV6aGFiMlZZRWhkdGVGRkJXbVF0UlVoS05ub3dVRVZRYVRSWFV6aEJaeG9pUVV4RlV6bDFUbFZPWVhoQmNsaEhiRkJ2T1MxM1FTMXdVbVUxY25kcE5tTk1kdyIsImZjdiI6IjMiLCJlaSI6Im14UUFaZC1FSEo2ejBQRVBpNFdTOEFnIiwicWMiOiJDZ3hwYm5OMFlXNTBJR1p2YjJRUUFIMjhkRE1fIiwicXVlc3Rpb24iOiJXaGljaCBpbnN0YW50IGZvb2QgaXMgZ29vZD8iLCJsayI6IkdocDNhR2xqYUNCcGJuTjBZVzUwSUdadmIyUWdhWE1nWjI5dlpBIiwiYnMiOiJjLU9TNDVJTXowZ3NVY2dzVmlqSlNGWEl6Q3N1U2N3clVVakx6MC14bC1oVjVsTG5Vb0xKcC1VWEthUldKT1lXNUtDcUs3YVgtQm5BcGNBbEhaNlJtWnlCSWdYU2xnNDI2a2tXbHhLWExFUUZXSk5DWWxHcVFsRnFZa3FsUWttLVFtcGlpYjNFVVNrQlJnQSIsImlkIjoiZmNfMSJ9",
+    "displayed_link": "https://cashkaro.com › blog › ready-to-eat-meals-thatll-ta...",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/0d9cced8a3e98cc2170cd3742f389b0635a8eba4e993227c739ca704a6e1e776.png"
+  },
+  {
+    "﻿result_type": "related_questions",
+    "link": "https://www.food.gov.uk/sites/default/files/media/document/ready-to-eat-food.pdf",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4SmJFOUtPVWszWjB4b1JIUmxOekpvY1dNek9HbGhTemxuVWkweFVGb3pOVlkwZDJSUlp6Qm1UbmwxWnpkSVZYUk1SbEF3VFRoMFpIbG5iMHhmWlZodFV6aGFiMlZZRWhkdGVGRkJXbVF0UlVoS05ub3dVRVZRYVRSWFV6aEJaeG9pUVV4RlV6bDFUbFZPWVhoQmNsaEhiRkJ2T1MxM1FTMXdVbVUxY25kcE5tTk1kdyIsImZjdiI6IjMiLCJlaSI6Im14UUFaZC1FSEo2ejBQRVBpNFdTOEFnIiwicWMiOiJDZ3hwYm5OMFlXNTBJR1p2YjJRUUFIMjhkRE1fIiwicXVlc3Rpb24iOiJXaGljaCBmb29kcyBhcmUgcmVhZHkgdG8gZWF0PyIsImxrIjoiR2h4M2FHbGphQ0JtYjI5a2N5QmhjbVVnY21WaFpIa2dkRzhnWldGMCIsImJzIjoiYy1PUzQ1SU16MGdzVWNnc1ZpakpTRlhJekNzdVNjd3JVVWpMejAteGwtaFY1bExuVW9MSnAtVVhLYVJXSk9ZVzVLQ3FLN2FYLUJuQXBjQWxIWjZSbVp5QklnWFNsZzQyNmtrV2x4S1hMRVFGV0pOQ1lsR3FRbEZxWWtxbFFrbS1RbXBpaWIzRVVTa0JSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D",
+    "displayed_link": "https://www.food.gov.uk › files › media › document › re...",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/0d9cced8a3e98cc2170cd3742f389b06a8cd05fbcecd4fb5e6ec92d6ae0796ed.png"
+  },
+  {
+    "﻿result_type": "video_results",
+    "position": "1",
+    "title": "OMG EATING ONLY INSTANT FOODS FOR 24 HOURS | DID I ...",
+    "link": "https://www.youtube.com/watch?v=FmDeuwTZoGg",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/46489454d1f2b67090b5b1cffb506eefe4c55a4d89b7ead7eca6db2d637ddbd4.jpeg",
+    "channel": "Bake With Shivesh",
+    "platform": "YouTube"
+  },
+  {
+    "﻿result_type": "video_results",
+    "position": "2",
+    "title": "10 Indian Instant Food",
+    "link": "https://www.youtube.com/watch?v=wU-7z7F6oZg",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/46489454d1f2b670adf4bc7ddb56c123606cc2174c1d2c17e36658215808c8a4.jpeg",
+    "channel": "DancingBacons",
+    "platform": "YouTube"
+  },
+  {
+    "﻿result_type": "video_results",
+    "position": "3",
+    "title": "10 Quick Instant Food",
+    "link": "https://www.youtube.com/watch?v=SenCNeXJTBU",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/46489454d1f2b670176b277eb11a3eeee46f447f037bb31a07817c60f6a1f1d2.jpeg",
+    "channel": "DancingBacons",
+    "platform": "YouTube"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "1",
+    "title": "MTR Ready To Eat - Vegetable Pulao 250 g Carton",
+    "price": "₹130",
+    "link": "https://www.bigbasket.com/pd/265986/mtr-ready-to-eat-vegetable-pulao-250-g-carton/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327e228919b63df8793563c856fcbea7a0ef.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "2",
+    "title": "Tata Sampann Yumside Classic Mac & Cheese Pasta - Rich & Creamy, Ready To Eat Meal 285 g",
+    "price": "₹90.30",
+    "link": "https://www.bigbasket.com/pd/40302723/tata-sampann-yumside-classic-mac-cheese-pasta-ready-to-eat-no-added-colours-flavours-285-g/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327e24f55b8842a71bd703fa174fe6ae049c.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "3",
+    "title": "Tata Sampann Yumside Chicken Biryani - Rich & Aromatic, Ready To Eat Meal, Serves 2 330 g",
+    "price": "₹139.30",
+    "link": "https://www.bigbasket.com/pd/40279430/tata-sampann-yumside-rich-aromatic-chicken-biryani-high-in-protein-ready-to-eat-no-preservatives-330-g/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327ec84375256878a1cbf01eeb196d46e1e5.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "4",
+    "title": "Instafeast Ready To Eat Vegetable Biryani 80 g",
+    "price": "₹60",
+    "link": "https://www.bigbasket.com/pd/40152644/instafeast-ready-to-eat-vegetable-biryani-80-g/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327eed985cfad6fb259305e54867076911c8.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "5",
+    "title": "Saffola Soya Bhurji - Magic Masala, Anytime Snack, Instant Ready In 5 Minutes, 35 g",
+    "price": "₹14.70",
+    "link": "https://www.bigbasket.com/pd/40282036/saffola-soya-bhurji-magic-masala-anytime-snack-instant-ready-in-5-minutes-35-g/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327e40fb1c27952812b6e479f54c15f0305a.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "6",
+    "title": "Tata Sampann Yumside Gujarati Style Daliya Khichdi - Ready To Eat Meal, Heat In 60-Secs, Serves 2, 285 g",
+    "price": "₹69.30",
+    "link": "https://www.bigbasket.com/pd/40283728/tata-sampann-yumside-gujarati-style-daliya-khichdi-ready-to-eat-no-preservatives-285-g/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327e0efeb943a9f4648583512efcc008c467.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "7",
+    "title": "Aashirvaad Instant Khatta Meetha Poha - Ready To Eat, Wholesome Breakfast, Fibre Rich, 60 g Pouch",
+    "price": "₹27",
+    "link": "https://www.bigbasket.com/pd/40209298/aashirvaad-instant-khatta-meetha-poha-with-millets-60-g-pouch/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327ef1f4153a4a5d9cefd4624ef269fcaa17.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "8",
+    "title": "MTR Ready To Eat - Dal Makhani 300 g Carton",
+    "price": "₹125",
+    "link": "https://www.bigbasket.com/pd/265983/mtr-ready-to-eat-dal-makhani-300-g-carton/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327ebb9983d511acab8a703a94c817d7e2b8.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "shopping_result",
+    "block_position": "top",
+    "position": "9",
+    "title": "Aashirvaad Instant Mini Idli Sambhar - Ready To Eat, Wholesome Breakfast, 80 g",
+    "price": "₹75",
+    "link": "https://www.bigbasket.com/pd/40200619/aashirvaad-instant-meals-mini-idli-sambhar-cup-80-g/?z=MzE0OTkyNTYyNA&utm_source=google&utm_medium=cpc&utm_campaign=Nagpur-PLA/",
+    "thumbnail": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/4c55496c76c87bb56cb8bd637a2b327e1a402e030d1aa202d38f2cd0aa20161e.webp",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "1",
+    "title": "Cup Noodles Chilli Manchurian – Korean Style Spicy Ramen Noodles Pack of 3",
+    "price": "185",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGQzDhECV8Z8v_eduPfv6l1ZXOlgkdH_ahxy2FQagfBV6CTmh76ptAwaZgyeBr1PJYS0ndJVFDdk6bda8E-vT3dub8mH4qnc9i1oDOtHwP3C51g7zSmIHV2g",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "2",
+    "title": "MTR Ready To Eat Tomato Rice",
+    "price": "115",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRA0IBIIC4qdKrWqQew4l5gF6oaPpMvqYZ3AHcvyoureqFiIMx6hB1soAfP0hs7Hnd7U_Uhe2DlGejujOArGal3J2rdcWParBLn1x3wIWl3",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "bigbasket.com"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "3",
+    "title": "Knorr Spicy Kimchi Ramen Noodles - 123 g",
+    "price": "270",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNVNDatFnBVCeAn9XMhDW70Z0vK8jfAxPZfVSsCA8wnUsVoTrsE5gaNYx6qQd8mwx5-jzf5l2HXPfeK9KAihcBZJkh7ngE-SwrhapplSYzywUvuWsYpoOJ",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "blinkit"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "4",
+    "title": "Idli Sambar, 90g - Ready to Eat | Instant Food | No Added Preservatives | MOM Meal of the Moment",
+    "price": "90",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvmuBSUPA0IqLL723OIoQxM8zds_OqMGs30kYtccwXqtCVyBdzWcar1TkAKV8GuuPcXKWQ2IX2edCqarckDmc-6H1NmTSPGm1obTzl-k6SJrmLWQuib3bbVA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "MOM Meal of the Moment"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "5",
+    "title": "Yu Chilli Manchurian Instant Cup Noodles",
+    "price": "29",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZ9vjjzYk9QO-JFAc-yvVoI4vFGVkjshDHGMwJ9fEIwp8YA-c8dF-DS33O5ultnWJZE23w0XFUSi06zn_o5eUvhMsejsCFXdatdd1XIA69",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Flipkart"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "6",
+    "title": "TheTasteCompany Sambar Rice - Instant Food | Ready to Eat | Taste Company (Pack of 3)",
+    "price": "445",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT38j4nW6S9qZmcP5WDEWqiMsvYrbpBlyi5-OH0L3Nk6-3BJYglhW-X5hVsx37FM0BK0vs45jToMDL2w311QOwsA9zL2X2NgmUlXRdQUOUGsF4bWlG_7j7u",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "7",
+    "title": "Indomie Instant Noodles Chicken Flavour",
+    "price": "28.8",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxmxvAwh6m7iA-4zwUxLguX1UmWsYXe_ursrJlm3415w-quTz5WsG0cyn53xIq0Q3z9bqBX3TXybmnTOrdhN4blOC_5dWs-0RMbi43LNlndbj51OdgsexWgA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "bigbasket.com"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "8",
+    "title": "Maggi 2 Minute Noodles Masala",
+    "price": "22",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQQL0P9iB7qI8Rrd-CUH8y1BuDIM-TDRPnoHdcBBLUiQrgl9LZvRx240U1YlfHz9ZkamDlS211Mb2ZC8cKr8xw40EK5_ArxSM7REqRbg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "JioMart"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "9",
+    "title": "Yu Foodlabs Bombay Rava Upma - With Vegetables - No Preservatives - Instant Breakfast - 100% Natural - Ready To Eat Instant Food - 225g - Yu Foodlabs",
+    "price": "62",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLgMS9ZYyLeTB-OplgaDAAFFCgL3heN5F86psnfdkrmiWgUt_BOmoJFTnRscoERp9wu6X6r05t7O1OPlkYwobPVde-IvtT03VFAK7BTklFcy_QoAWByWhb",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "10",
+    "title": "MOM Meal of the Moment Idli Sambar 90g",
+    "price": "270",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQhvFvTyiGVRCclqnTY6o8FVk_6yt_CwO_I4BvJ-qIWMc41_yB7hn4IFRjHR9xLj1Kt1BzS-xe4Due9CiKLXKMCyfo508i-o0iBluLpMCH7rPiXFjEw7-h7g",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "11",
+    "title": "TheTasteCompany Combo (Non-Veg) - Ready To Eat | Instant Food | Taste Company",
+    "price": "595",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1SFMSlO-eA6CjCwucJX75DVY0Od82vOymsWzT1JEoPTemdqPY5SGetXM0COO0kDpXaK_U_O4YT-LiCvY8uUrSrJbzsxQ8VvXx4SC2Nu09N-OA0JNY-iOHUg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "12",
+    "title": "MOM Meal of the Moment Poha with Bhujia",
+    "price": "275",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ5ZPikV-ovqyTxK784RVTYxdwjK6PgzU23roIjpe8RuhuJE4vgGEGxye9_Xqi7rJajD9beeYr9OmrFbJzLsmMDDURGHFIh8GbwZeG859Oz_QLqWYjXvPKWEA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "13",
+    "title": "TheTasteCompany Dal Makhni Rice - Instant Food | Ready to Eat | Taste Company (Pack of 3)",
+    "price": "473",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKpRGTQqNFZm8_X1OrNnhg3yv6RU-bFfvX5_2DfWeB6nY1fCzjLMudhx7xIbXPUB2aL4JkPDLMZvccrunOb0kUsq0Mrz2htBr5gE9u-SBlcmbK2nnk4vYxRA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "14",
+    "title": "MAGGI 2-Minute Spicy Manchurian Noodles",
+    "price": "80",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScyQ0zUP0Qs_gCSF3Ductg8wJzZdaJYUOM-FVIkeMDBr3c50VTYYVgVg4JFV6TnR-lDFOwX2BKPQ9S6wgpry7RTqbD50r7fvP5zpd-M1Cmk_SoYKsx_NTe0g",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "15",
+    "title": "Gits Ready Meals VEG Pulao",
+    "price": "144",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW1dM_JFP2JeErL7Ro3C5FpsPiNcb5TLWUPPEfKstO9OpT2-NN5Oi_CLah4FY_4iEvkLft5L72XUYTtuUBwOG7VZGH5tgu-LvGlxoXMro0z_XDIceh_rvS",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "16",
+    "title": "Khushi Food Products Instant Tomato Soup Premix Regular Box ( 10 Pouch)",
+    "price": "200",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQI_cskdQ-dIWB18bkIRRyLDC_kX3omfJ45DuoHg1o58b6_qf_m8y63vE3KAIB1y-gOwW0hXlbu_RXRIez3GH6dyZl1xNVC8MWrq5mXq6ARrjDE2Yj6-yZzEw",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "17",
+    "title": "Desi Mealz Ready to Eat Food Products Instant Healthy Breakfast - Indian,Tasty and Healthy Ready to Eat Food Packed Food, Best Travel Food Each 80 gm",
+    "price": "420",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3ENYzqpf9CprQbBMmdlY-8vL0zZccA96VpkohTfHFPoLiZbEoMR1eoSvoKYsvfexx1SFbhq-Y3bKxh4-fmcVZsusK4BkP6sh0A_FV2L2zkAAYt5eAvNOQow",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "18",
+    "title": "Dryfii Ready to Eat Cup Meal Rava Upma Instant Food (75X3) Pack of 3 - Rehydrated wt.750 g",
+    "price": "215",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWl01AWn-N2D-is52_plwC_C_KScmbndjdRvwgegNoHIXOPahRR6-irn_ysyBZjhB52OxhI5p31vW6mj9UE5jO_LRQAZfImRwwo25-8HDUdOqW3vrjGtYmoQ",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "19",
+    "title": "Haldiram's Delhi RTE Vegetable Pulao",
+    "price": "80",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFPipEmS1wj6FT71AB74n9nexZsKWzkBhDDi3immSuHLg_p192r20QiE-_IdzfaTGE5LKcfVzN_En04Gu8RaWYb42BFdGVT9pzONlYVX8",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "bigbasket.com"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "20",
+    "title": "Curry Meshi 4 pcs",
+    "price": "488.69",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRksHbr8EpSOjvFcuW7mXH01HzQAsHWhVcIhG_aKza2LG76xdzfn5VJdxuC2ScPHrE6waicL7lxYepyM6i-1KA5lt2WZGdEBaKP5zg7ERTA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Japanese Taste"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "21",
+    "title": "Dryfii Homemade Veg Biryani Ready To Eat Instant Food Pack Of 2 75x2 150 G 150 G",
+    "price": "261",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmOkj2XnOCNg1jTHXnY76CGj1O-1uEhOH3rPfOxyR7zOpjaPuFXYFx3uKfGS0uOgRdkaYIGiuLQywaPfcEBP9uzNSa7RDPZ9-5I7ixPFUUF1JWVyNRdgg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Flipkart"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "22",
+    "title": "Haldiram's Nagpur Instant Bhel",
+    "price": "10",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSh5-V7PiWXt8pivFXzvsbtAu38wPWC_DS1EtEz2LRZ3hcr2cs2tNqV-848cWP_KEbu62fXmEKj39ksCvwrybl7V9q8nIGHsXclpUWd_hgP",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "bigbasket.com"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "23",
+    "title": "Desi Mealz Ready to Eat Food Mixes Tasty & Delicious Instant Food Cup BisibeleBath Traveller Ready to Eat 100% Veg Pack of 2 (70 gm Each)",
+    "price": "200",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMe-HtvG-NlutTl7Qh3vDT-J6hELBjiYWbzwbzEexjg8u69bqk0QUoOGiFoRDhKPZjoKqpQKn3EVf5t0SrHTKLqkmO_J9R6EFplr67MNJ9PTCCyEhBI6JX9w",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "inline_product",
+    "position": "24",
+    "title": "Dryfii Ready to Cook Dehydrated Rajasthani Gatta Curry - Instant, Delicious Premium Gourmet Flavor - Quick and Easy Homemade Pack of 2 (80gx2) 160g,",
+    "price": "299",
+    "currency": "₹",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRy-xMaFEDDcf7XZooRUGn5v1WBmuXYxcnA2v49xPTxZ83zTRjM6HbsTDmQwmV2rqbX-9Ygy-VzdETEh9kETTuW_4Ttp93FQ4I6Dtjc3Mxy9deJv0HvMI5ABg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png",
+    "source": "Amazon.in"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Cup Noodles Chilli Manchurian – Korean Style Spicy Ramen Noodles Pack of 3",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGQzDhECV8Z8v_eduPfv6l1ZXOlgkdH_ahxy2FQagfBV6CTmh76ptAwaZgyeBr1PJYS0ndJVFDdk6bda8E-vT3dub8mH4qnc9i1oDOtHwP3C51g7zSmIHV2g",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "MTR Ready To Eat Tomato Rice",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRA0IBIIC4qdKrWqQew4l5gF6oaPpMvqYZ3AHcvyoureqFiIMx6hB1soAfP0hs7Hnd7U_Uhe2DlGejujOArGal3J2rdcWParBLn1x3wIWl3",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Knorr Spicy Kimchi Ramen Noodles - 123 g",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNVNDatFnBVCeAn9XMhDW70Z0vK8jfAxPZfVSsCA8wnUsVoTrsE5gaNYx6qQd8mwx5-jzf5l2HXPfeK9KAihcBZJkh7ngE-SwrhapplSYzywUvuWsYpoOJ",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Idli Sambar, 90g - Ready to Eat | Instant Food | No Added Preservatives | MOM Meal of the Moment",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvmuBSUPA0IqLL723OIoQxM8zds_OqMGs30kYtccwXqtCVyBdzWcar1TkAKV8GuuPcXKWQ2IX2edCqarckDmc-6H1NmTSPGm1obTzl-k6SJrmLWQuib3bbVA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Yu Chilli Manchurian Instant Cup Noodles",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZ9vjjzYk9QO-JFAc-yvVoI4vFGVkjshDHGMwJ9fEIwp8YA-c8dF-DS33O5ultnWJZE23w0XFUSi06zn_o5eUvhMsejsCFXdatdd1XIA69",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "TheTasteCompany Sambar Rice - Instant Food | Ready to Eat | Taste Company (Pack of 3)",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT38j4nW6S9qZmcP5WDEWqiMsvYrbpBlyi5-OH0L3Nk6-3BJYglhW-X5hVsx37FM0BK0vs45jToMDL2w311QOwsA9zL2X2NgmUlXRdQUOUGsF4bWlG_7j7u",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Indomie Instant Noodles Chicken Flavour",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxmxvAwh6m7iA-4zwUxLguX1UmWsYXe_ursrJlm3415w-quTz5WsG0cyn53xIq0Q3z9bqBX3TXybmnTOrdhN4blOC_5dWs-0RMbi43LNlndbj51OdgsexWgA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Maggi 2 Minute Noodles Masala",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQQL0P9iB7qI8Rrd-CUH8y1BuDIM-TDRPnoHdcBBLUiQrgl9LZvRx240U1YlfHz9ZkamDlS211Mb2ZC8cKr8xw40EK5_ArxSM7REqRbg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Yu Foodlabs Bombay Rava Upma - With Vegetables - No Preservatives - Instant Breakfast - 100% Natural - Ready To Eat Instant Food - 225g - Yu Foodlabs",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLgMS9ZYyLeTB-OplgaDAAFFCgL3heN5F86psnfdkrmiWgUt_BOmoJFTnRscoERp9wu6X6r05t7O1OPlkYwobPVde-IvtT03VFAK7BTklFcy_QoAWByWhb",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "MOM Meal of the Moment Idli Sambar 90g",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQhvFvTyiGVRCclqnTY6o8FVk_6yt_CwO_I4BvJ-qIWMc41_yB7hn4IFRjHR9xLj1Kt1BzS-xe4Due9CiKLXKMCyfo508i-o0iBluLpMCH7rPiXFjEw7-h7g",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "TheTasteCompany Combo (Non-Veg) - Ready To Eat | Instant Food | Taste Company",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1SFMSlO-eA6CjCwucJX75DVY0Od82vOymsWzT1JEoPTemdqPY5SGetXM0COO0kDpXaK_U_O4YT-LiCvY8uUrSrJbzsxQ8VvXx4SC2Nu09N-OA0JNY-iOHUg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "MOM Meal of the Moment Poha with Bhujia",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ5ZPikV-ovqyTxK784RVTYxdwjK6PgzU23roIjpe8RuhuJE4vgGEGxye9_Xqi7rJajD9beeYr9OmrFbJzLsmMDDURGHFIh8GbwZeG859Oz_QLqWYjXvPKWEA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "TheTasteCompany Dal Makhni Rice - Instant Food | Ready to Eat | Taste Company (Pack of 3)",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKpRGTQqNFZm8_X1OrNnhg3yv6RU-bFfvX5_2DfWeB6nY1fCzjLMudhx7xIbXPUB2aL4JkPDLMZvccrunOb0kUsq0Mrz2htBr5gE9u-SBlcmbK2nnk4vYxRA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "MAGGI 2-Minute Spicy Manchurian Noodles",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScyQ0zUP0Qs_gCSF3Ductg8wJzZdaJYUOM-FVIkeMDBr3c50VTYYVgVg4JFV6TnR-lDFOwX2BKPQ9S6wgpry7RTqbD50r7fvP5zpd-M1Cmk_SoYKsx_NTe0g",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Gits Ready Meals VEG Pulao",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW1dM_JFP2JeErL7Ro3C5FpsPiNcb5TLWUPPEfKstO9OpT2-NN5Oi_CLah4FY_4iEvkLft5L72XUYTtuUBwOG7VZGH5tgu-LvGlxoXMro0z_XDIceh_rvS",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Khushi Food Products Instant Tomato Soup Premix Regular Box ( 10 Pouch)",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQI_cskdQ-dIWB18bkIRRyLDC_kX3omfJ45DuoHg1o58b6_qf_m8y63vE3KAIB1y-gOwW0hXlbu_RXRIez3GH6dyZl1xNVC8MWrq5mXq6ARrjDE2Yj6-yZzEw",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Desi Mealz Ready to Eat Food Products Instant Healthy Breakfast - Indian,Tasty and Healthy Ready to Eat Food Packed Food, Best Travel Food Each 80 gm",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3ENYzqpf9CprQbBMmdlY-8vL0zZccA96VpkohTfHFPoLiZbEoMR1eoSvoKYsvfexx1SFbhq-Y3bKxh4-fmcVZsusK4BkP6sh0A_FV2L2zkAAYt5eAvNOQow",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Dryfii Ready to Eat Cup Meal Rava Upma Instant Food (75X3) Pack of 3 - Rehydrated wt.750 g",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWl01AWn-N2D-is52_plwC_C_KScmbndjdRvwgegNoHIXOPahRR6-irn_ysyBZjhB52OxhI5p31vW6mj9UE5jO_LRQAZfImRwwo25-8HDUdOqW3vrjGtYmoQ",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Haldiram's Delhi RTE Vegetable Pulao",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFPipEmS1wj6FT71AB74n9nexZsKWzkBhDDi3immSuHLg_p192r20QiE-_IdzfaTGE5LKcfVzN_En04Gu8RaWYb42BFdGVT9pzONlYVX8",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Curry Meshi 4 pcs",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRksHbr8EpSOjvFcuW7mXH01HzQAsHWhVcIhG_aKza2LG76xdzfn5VJdxuC2ScPHrE6waicL7lxYepyM6i-1KA5lt2WZGdEBaKP5zg7ERTA",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Dryfii Homemade Veg Biryani Ready To Eat Instant Food Pack Of 2 75x2 150 G 150 G",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmOkj2XnOCNg1jTHXnY76CGj1O-1uEhOH3rPfOxyR7zOpjaPuFXYFx3uKfGS0uOgRdkaYIGiuLQywaPfcEBP9uzNSa7RDPZ9-5I7ixPFUUF1JWVyNRdgg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Haldiram's Nagpur Instant Bhel",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSh5-V7PiWXt8pivFXzvsbtAu38wPWC_DS1EtEz2LRZ3hcr2cs2tNqV-848cWP_KEbu62fXmEKj39ksCvwrybl7V9q8nIGHsXclpUWd_hgP",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Desi Mealz Ready to Eat Food Mixes Tasty & Delicious Instant Food Cup BisibeleBath Traveller Ready to Eat 100% Veg Pack of 2 (70 gm Each)",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMe-HtvG-NlutTl7Qh3vDT-J6hELBjiYWbzwbzEexjg8u69bqk0QUoOGiFoRDhKPZjoKqpQKn3EVf5t0SrHTKLqkmO_J9R6EFplr67MNJ9PTCCyEhBI6JX9w",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "immersive_product",
+    "title": "Dryfii Ready to Cook Dehydrated Rajasthani Gatta Curry - Instant, Delicious Premium Gourmet Flavor - Quick and Easy Homemade Pack of 2 (80gx2) 160g,",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRy-xMaFEDDcf7XZooRUGn5v1WBmuXYxcnA2v49xPTxZ83zTRjM6HbsTDmQwmV2rqbX-9Ygy-VzdETEh9kETTuW_4Ttp93FQ4I6Dtjc3Mxy9deJv0HvMI5ABg",
+    "favicon": "https://serpapi.com/searches/65001494af5af1e69f56908e/images/3355279c7a4106519523bb2c5e2dbb5b50279ea763ae2f3010be60470cf9a3e7.png"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "Instant food recipes",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+recipes&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAg3EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+recipes&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "Instant food near me",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+near+me&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAg2EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+near+me&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "Instant food list",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+list&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAg1EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+list&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "instant food packets",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+packets&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAg0EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+packets&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "instant food items at home",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+items+at+home&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAgzEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+items+at+home&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "Instant food in india",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+in+india&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAgyEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+in+india&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "instant food mtr",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+mtr&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAguEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+mtr&start=0"
+  },
+  {
+    "﻿result_type": "related_searches",
+    "block_position": "1",
+    "query": "instant food items with hot water",
+    "link": "https://www.google.co.in/search?sca_esv=564615981&gl=in&hl=en&q=Instant+food+items+with+hot+water&sa=X&ved=2ahUKEwifvsTTx6SBAxWeGTQIHYuCBI4Q1QJ6BAgqEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Maharashtra%2C+India&q=Instant+food+items+with+hot+water&start=0"
+  }
+]
