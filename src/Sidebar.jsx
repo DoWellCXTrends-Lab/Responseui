@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import organicData from './data.json'; // Import your JSON data file
+import Content from './Content';
 
 function Sidebar() {
   const [expandedPage, setExpandedPage] = useState(null);
@@ -37,12 +38,12 @@ function Sidebar() {
         (item) => item["﻿Page ID"] === "1" && item.result_type === "inline_product"
       );
       setFilteredData(inlineProductResult);
-    } else if (submenu === 'Immersive Product' && currentPageId === 1) {
+    } else if (submenu === 'Videos' && currentPageId === 1) {
       // Display immersive_product result only when on Page 1
-      const immersiveProductResult = organicData.filter(
-        (item) => item["﻿Page ID"] === "1" && item.result_type === "immersive_product"
+      const videoResults = organicData.filter(
+        (item) => item["﻿Page ID"] === "1" && item.result_type === "video_results"
       );
-      setFilteredData(immersiveProductResult);
+      setFilteredData(videoResults);
     } else {
       setFilteredData([]); // Clear the filtered data when submenu is not "Organic," "Shopping Result," "Inline Product," or not on Page 1
     }
@@ -80,7 +81,7 @@ function Sidebar() {
     id: index + 1,
     title: `Page ${index + 1}`,
     submenus: index === 0
-      ? ['Organic', 'Shopping Result', 'Inline Product', 'Immersive Product', 'Related Searches']
+      ? ['Organic', 'Shopping Result', 'Inline Product', 'Videos', 'Related Searches']
       : ['Organic', 'Related Searches'],
   }));
 
@@ -117,47 +118,7 @@ function Sidebar() {
         ))}
       </div>
 
-      <div className="data-container">
-        <h3>Data</h3>
-        {filteredData.length > 0 ? (
-          <ul>
-            {filteredData.map((item, index) => (
-              <li key={index}>
-                <a href={item.link} target="_blank" rel="noopener noreferrer">
-                  <h4>{item.title}</h4>
-                  <p>{item.displayed_link}</p>
-                  {item.result_type === "shopping_result" && (
-                    <>
-                      <p>Price: {item.price}</p>
-                      <img src={item.thumbnail} alt="Thumbnail" />
-                    </>
-                  )}
-                  {item.result_type === "organic" && (
-                    <img src={item.thumbnail} alt="Thumbnail" />
-                  )}
-                  {item.result_type === "video_results" && (
-                    <img src={item.thumbnail} alt="Thumbnail" />
-                  )}
-                  {item.result_type === "inline_product" && (
-                    <img src={item.thumbnail} alt="Thumbnail" />
-                  )}
-                  {item.result_type === "related_searches" && (
-                    <>
-                      <a href={item.link} target="_blank" rel="noopener noreferrer">
-                        {item.query}
-                      </a>
-                    </>
-                  )}
-                  <p>{item.snippet}</p>
-                  <p>{item.source}</p>
-                </a>
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p>No results found for Page {currentPageId}.</p>
-        )}
-      </div>
+      <Content filteredData={filteredData} currentPageId={currentPageId} /> {/* Render the Content component */}
     </div>
   );
 }

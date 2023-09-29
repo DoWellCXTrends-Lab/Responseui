@@ -2,51 +2,59 @@
 
 import React from 'react';
 
-function Card({ item }) {
-  return (
-    <div className="card">
-      <a href={item.link} target="_blank" rel="noopener noreferrer">
-        <h4>{item.title}</h4>
-        <p>{item.displayed_link}</p>
-        {item.result_type === "shopping_result" && (
-          <>
-            <p>Price: {item.price}</p>
-            <img src={item.thumbnail} alt="Thumbnail" />
-          </>
-        )}
-        {item.result_type === "organic" && (
-          <img src={item.thumbnail} alt="Thumbnail" />
-        )}
-        {item.result_type === "video_results" && (
-          <img src={item.thumbnail} alt="Thumbnail" />
-        )}
-        {item.result_type === "inline_product" && (
-          <img src={item.thumbnail} alt="Thumbnail" />
-        )}
-        {item.result_type === "related_searches" && (
-          <>
-            <a href={item.link} target="_blank" rel="noopener noreferrer">
-              {item.query}
-            </a>
-          </>
-        )}
-        <p>{item.snippet}</p>
-        <p>{item.source}</p>
-      </a>
-    </div>
-  );
-}
-
 function Content({ filteredData, currentPageId }) {
   return (
     <div className="data-container">
       <h3>Data</h3>
       {filteredData.length > 0 ? (
-        <div className="card-container">
+        <ul>
           {filteredData.map((item, index) => (
-            <Card key={index} item={item} />
+            <li key={index}>
+              <a href={item.link} target="_blank" rel="noopener noreferrer">
+                <img src={item.thumbnail} alt="Thumbnail" />
+                <h4>{item.title}</h4>
+                <p>{item.displayed_link}</p>
+                {item.result_type === "video_results" && (
+                  <>
+                    <p>{item.platform} {item.channel}</p>
+                    {item.favicon && (
+                      <img src={item.favicon} alt="Favicon" />
+                    )}
+                  </>
+                )}
+                {item.result_type === "shopping_result" && (
+                  <>
+                    {item.price && <p>Price: {item.price}</p>}
+                    {item.favicon && (
+                      <img src={item.favicon} alt="Favicon" />
+                    )}
+                  </>
+                )}
+                {item.result_type === "inline_product" && (
+                  <>
+                    {item.price && <p>Price: {item.price}</p>}
+                    {item.currency && <p>Currency: {item.currency}</p>}
+                    {item.favicon && (
+                      <img src={item.favicon} alt="Favicon" />
+                    )}
+                  </>
+                )}
+                {item.result_type === "organic" && (
+                  <>
+                    {item.favicon && (
+                      <img src={item.favicon} alt="Favicon" />
+                    )}
+                    {item.rich_snippet && (
+                      <p>Rich Snippet: {item.rich_snippet}</p>
+                    )}
+                  </>
+                )}
+                {item.snippet && <p>{item.snippet}</p>}
+                {item.source && <p>{item.source}</p>}
+              </a>
+            </li>
           ))}
-        </div>
+        </ul>
       ) : (
         <p>No results found for Page {currentPageId}.</p>
       )}
