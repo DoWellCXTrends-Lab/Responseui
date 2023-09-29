@@ -44,37 +44,49 @@ function Sidebar() {
         (item) => item["﻿Page ID"] === "1" && item.result_type === "video_results"
       );
       setFilteredData(videoResults);
+    } else if (submenu === 'Related Searches') {
+      // Filter and set the relevant data for Related Searches
+      const relatedSearches = organicData.filter(
+        (item) => item["﻿Page ID"] === `${currentPageId}` && item.result_type === "related_searches"
+      ); // Extract only the "query" property
+      setFilteredData(relatedSearches);
     } else {
-      setFilteredData([]); // Clear the filtered data when submenu is not "Organic," "Shopping Result," "Inline Product," or not on Page 1
+      setFilteredData([]); // Clear the filtered data when submenu is not "Organic," "Shopping Result," "Inline Product," "Videos," or not on Page 1
     }
   };
 
   const getResponseSubmenus = () => {
-    // Define a function to generate response submenus based on filtered data
-    const responseSubmenus = [];
-
-    filteredData.forEach((item, index) => {
-      if (item.position) {
-        const submenuName = `Response ${item.position}`;
-
-        responseSubmenus.push(
-          <li
-            key={submenuName}
-            className="submenu"
-            onClick={() => handleResponseClick(item)}
-          >
-            {submenuName}
-          </li>
-        );
+    // Group the filtered data by position and find the maximum position
+    const groupedData = filteredData.reduce((acc, item) => {
+      const position = parseInt(item.position);
+      if (!acc[position]) {
+        acc[position] = [];
       }
-    });
+      acc[position].push(item);
+      return acc;
+    }, {});
+
+    const maxPosition = Object.keys(groupedData).reduce((max, position) => {
+      return Math.max(max, parseInt(position));
+    }, 0);
+
+    // Generate response submenus based on the maximum position
+    const responseSubmenus = [];
+    for (let i = 1; i <= maxPosition; i++) {
+      const submenuName = `Response ${i}`;
+      responseSubmenus.push(
+        <li key={submenuName} className="submenu" onClick={() => handleResponseClick(groupedData[i])}>
+          {submenuName}
+        </li>
+      );
+    }
 
     return responseSubmenus;
   };
 
-  const handleResponseClick = (selectedResponse) => {
+  const handleResponseClick = (selectedResponses) => {
     // Handle click on response submenu to display the specific data
-    setFilteredData([selectedResponse]);
+    setFilteredData(selectedResponses);
   };
 
   const pages = Array.from({ length: 17 }, (_, index) => ({
