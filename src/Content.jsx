@@ -61,18 +61,19 @@ function Content({ filteredData, currentPageId }) {
       {filteredData.length > 0 ? (
         <div className="container" >
           {filteredData.map((item, index) => (
-            <div key={index}>
+            <div key={index} style={{ padding: '12px'}}>
               {
                 (item.result_type === "shopping_result" || item.result_type === "inline_product") && (
                   <>
-                    <div className='card' style={{ width: '200px', height: '300px' }}>
-                      <div className='card-body'>
+                    <div className='card' style={{ width: '200px', height: '325px' }}>
+                      <div className=''>
                         <div style={{ height: '160px' }}>
                           <img src={item.thumbnail} alt="Thumbnail" style={{ width: '100%', marginLeft: '10px', marginRight: '10px' }} />
                         </div>
                         <div className='card-title'> <p className='cust-heading cust-subHeadingText' >
                           {item.title}</p>
                           {item.price && <p>{item.currency}{item.price}</p>}
+                          {item.source && <p className='cust-font-title'>{item.source}</p>}
                         </div>
                       </div>
                     </div>
@@ -106,7 +107,7 @@ function Content({ filteredData, currentPageId }) {
                           </div>
                           <div className='row col-md-12'>
                             <p className='cust-heading cust-subHeadingText' style={{ fontSize: '14px', display: 'flex', alignItems: 'end' }}>
-                              {item.platform} {item.channel}</p>
+                              {item.platform} . {item.channel}</p>
                           </div>
                         </div>
                       </div>
