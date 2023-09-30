@@ -70,10 +70,14 @@ a {
 }
 
 a:hover {
-  color: #005a9e;
+  color: #681da8;
 }
 /* Add active style to the active submenu */
 .submenu.active {
   background-color: #0074cc; /* Change this to your desired active background color */
   color: #fff; /* Change this to your desired active text color */
+}
+
+li > p{
+  color: #3c4043;
 }
