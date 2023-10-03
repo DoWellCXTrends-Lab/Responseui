@@ -36,23 +36,12 @@ function Content({ filteredData, currentPageId }) {
                   </>
                 )}
 
-                {/* <p className='cust-heading' >{item.title}</p> */}
-                {item.result_type === 'related_searches' ? (
-                  <>
-                    <p className='cust-margin-top'>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-                      </svg> {item.query}</p>
-                  </>
-                ) : (
-                  <>
 
-                   
-                  </>
-                )}
               </a>
+
             </li>
           ))}
+
         </ul>
       ) : (
         <p>No results found for Page {currentPageId}.</p>
@@ -61,7 +50,7 @@ function Content({ filteredData, currentPageId }) {
       {filteredData.length > 0 ? (
         <div className="container" >
           {filteredData.map((item, index) => (
-            <div key={index} style={{ padding: '12px'}}>
+            <div key={index} style={{ padding: '12px' }}>
               {
                 (item.result_type === "shopping_result" || item.result_type === "inline_product") && (
                   <>
@@ -116,12 +105,50 @@ function Content({ filteredData, currentPageId }) {
                 )
               }
             </div>
+
+
+          ))}
+        </div>
+
+
+
+
+      ) : (
+        <p>No results found for Page {currentPageId}.</p>
+      )}
+
+      {filteredData.length > 0 ? (
+
+        <div className="containerM" style={{marginTop:'-25px', width:'600px'}}>
+          {filteredData.map((item, index) => (
+            <div key={index} >
+              {
+                item.result_type === 'related_searches' ? (
+                  <>
+                  
+                      <div style={{padding:'10px',borderRadius:'25px', background:'#f1f2f3', marginBottom:'10px'}}>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                          <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                        </svg> <span style={{paddingLeft:'15px'}}>{item.query}</span>
+
+                      </div>
+                  
+                  </>
+                ) : (
+                  <>
+                  </>
+                )
+              }
+            </div>
           ))}
         </div>
       ) : (
         <p>No results found for Page {currentPageId}.</p>
       )}
+
+
     </div>
+
   );
 }
 
