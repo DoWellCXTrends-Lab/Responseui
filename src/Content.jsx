@@ -3,6 +3,14 @@
 import React from 'react';
 import './Content.css';
 function Content({ filteredData, currentPageId }) {
+  const countKeyMoments = (keyMoments) => {
+    try {
+      const keyMomentsArray = JSON.parse(keyMoments.replace(/'/g, '"'));
+      return Array.isArray(keyMomentsArray) ? keyMomentsArray.length : 0;
+    } catch (error) {
+      return "";
+    }
+  };
   return (
     <div className="data-container">
       <h5>Data </h5>
@@ -18,9 +26,6 @@ function Content({ filteredData, currentPageId }) {
                       <div className='col-md-1 cust-width' >
                         {item.favicon && (
                           <img src={item.favicon} alt="Favicon" className='cust-fav-img' width={25} />
-                        )}
-                        {item.rich_snippet && (
-                          <p>{item.rich_snippet}</p>
                         )}
                       </div>
                       <div className='col-md-11'>
@@ -96,9 +101,11 @@ function Content({ filteredData, currentPageId }) {
                           </div>
                           <div className='row col-md-12'>
                             <p className='cust-heading cust-subHeadingText' style={{ fontSize: '14px', display: 'flex', alignItems: 'end' }}>
-                              {item.platform} . {item.channel}</p>
+                              {item.platform} . {item.channel} <br/>{item.date}</p>
                           </div>
                         </div>
+                        {countKeyMoments(item.key_moments) > 0 && item.thumbnail &&(
+                        <div style={{display:'flex',paddingLeft:'25px'}}><img src={item.thumbnail} alt="Thumbnail" style={{ width: '4%'}} /> <span style={{paddingLeft:'20px', paddingTop:'10px'}}>{countKeyMoments(item.key_moments)} key moments in this video</span></div>)}
                       </div>
                     </div>
                   </>
