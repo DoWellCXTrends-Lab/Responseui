@@ -8,6 +8,7 @@ function Sidebar() {
   const [expandedPage, setExpandedPage] = useState(null);
   const [filteredData, setFilteredData] = useState([]);
   const [currentPageId, setCurrentPageId] = useState(null);
+  const [showData, setShowData] = useState(null);
 
   const togglePage = (pageId) => {
     if (expandedPage === pageId) {
@@ -26,32 +27,38 @@ function Sidebar() {
         (item) => item["﻿Page ID"] === `${currentPageId}` && item.result_type === "organic"
       );
       setFilteredData(organicResults);
+      setShowData(organicResults)
     } else if (submenu === 'Shopping Result' && currentPageId === 1) {
       // Display shopping result only when on Page 1
       const shoppingResult = organicData.filter(
         (item) => item["﻿Page ID"] === "1" && item.result_type === "shopping_result"
       );
       setFilteredData(shoppingResult);
+      setShowData(shoppingResult)
     } else if (submenu === 'Inline Product' && currentPageId === 1) {
       // Display inline_product result only when on Page 1
       const inlineProductResult = organicData.filter(
         (item) => item["﻿Page ID"] === "1" && item.result_type === "inline_product"
       );
       setFilteredData(inlineProductResult);
+      setShowData(inlineProductResult)
     } else if (submenu === 'Videos' && currentPageId === 1) {
       // Display immersive_product result only when on Page 1
       const videoResults = organicData.filter(
         (item) => item["﻿Page ID"] === "1" && item.result_type === "video_results"
       );
       setFilteredData(videoResults);
+      setShowData(videoResults)
     } else if (submenu === 'Related Searches') {
       // Filter and set the relevant data for Related Searches
       const relatedSearches = organicData.filter(
         (item) => item["﻿Page ID"] === `${currentPageId}` && item.result_type === "related_searches"
       ); // Extract only the "query" property
       setFilteredData(relatedSearches);
+      setShowData(relatedSearches)
     } else {
-      setFilteredData([]); // Clear the filtered data when submenu is not "Organic," "Shopping Result," "Inline Product," "Videos," or not on Page 1
+      setFilteredData([]);
+      setShowData([]) // Clear the filtered data when submenu is not "Organic," "Shopping Result," "Inline Product," "Videos," or not on Page 1
     }
   };
 
@@ -69,13 +76,13 @@ function Sidebar() {
     const maxPosition = Object.keys(groupedData).reduce((max, position) => {
       return Math.max(max, parseInt(position));
     }, 0);
-
     // Generate response submenus based on the maximum position
     const responseSubmenus = [];
-    for (let i = 1; i <= maxPosition; i++) {
-      const submenuName = `Response ${i}`;
+    for (let i = 0; i < maxPosition; i++) {
+      const j = i+1
+      const submenuName = `Response ${j}  `;
       responseSubmenus.push(
-        <li key={submenuName} className="submenu" onClick={() => handleResponseClick(groupedData[i])}>
+        <li key={submenuName} value={i} className="submenu" onClick={(e) => handleResponseClick([filteredData[e.target.value]])}>
           {submenuName}
         </li>
       );
@@ -86,7 +93,7 @@ function Sidebar() {
 
   const handleResponseClick = (selectedResponses) => {
     // Handle click on response submenu to display the specific data
-    setFilteredData(selectedResponses);
+    setShowData(selectedResponses);
   };
 
   const pages = Array.from({ length: 17 }, (_, index) => ({
@@ -130,7 +137,7 @@ function Sidebar() {
         ))}
       </div>
 
-      <Content filteredData={filteredData} currentPageId={currentPageId} /> {/* Render the Content component */}
+      <Content filteredData={filteredData} currentPageId={currentPageId} showData={showData} /> {/* Render the Content component */}
     </div>
   );
 }
