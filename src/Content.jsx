@@ -2,7 +2,8 @@
 
 import React from 'react';
 import './Content.css';
-function Content({ filteredData, currentPageId }) {
+function Content({ filteredData, currentPageId, showData }) {
+  console.log(showData,'========showData=============')
   const countKeyMoments = (keyMoments) => {
     try {
       const keyMomentsArray = JSON.parse(keyMoments.replace(/'/g, '"'));
@@ -15,9 +16,9 @@ function Content({ filteredData, currentPageId }) {
     <div className="data-container">
       <h5>Data </h5>
 
-      {filteredData.length > 0 ? (
+      {showData?.length > 0 ? (
         <ul>
-          {filteredData.map((item, index) => (
+          {showData?.map((item, index) => (
             <li key={index}>
               <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                 {item.result_type === "organic" && (
@@ -52,9 +53,9 @@ function Content({ filteredData, currentPageId }) {
         <p>No results found for Page {currentPageId}.</p>
       )}
 
-      {filteredData.length > 0 ? (
+      {showData?.length > 0 ? (
         <div className="container" >
-          {filteredData.map((item, index) => (
+          {showData?.map((item, index) => (
             <div key={index} style={{ padding: '12px' }}>
               {
                 (item.result_type === "shopping_result" || item.result_type === "inline_product") && (
@@ -81,9 +82,9 @@ function Content({ filteredData, currentPageId }) {
         <p>No results found for Page {currentPageId}.</p>
       )}
 
-      {filteredData.length > 0 ? (
+      {showData?.length > 0 ? (
         <div className="row" >
-          {filteredData.map((item, index) => (
+          {showData?.map((item, index) => (
             <div key={index}>
               {
                 (item.result_type === "video_results") && (
@@ -124,10 +125,10 @@ function Content({ filteredData, currentPageId }) {
         <p>No results found for Page {currentPageId}.</p>
       )}
 
-      {filteredData.length > 0 ? (
+      {showData?.length > 0 ? (
 
         <div className="containerM" style={{marginTop:'-25px', width:'600px'}}>
-          {filteredData.map((item, index) => (
+          {showData?.map((item, index) => (
             <div key={index} >
               {
                 item.result_type === 'related_searches' ? (
